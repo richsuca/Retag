@@ -314,7 +314,7 @@ namespace Retag
                 "\r\n" +
                 "When you are ready, click on Change Queue\r\n" +
                 "\r\n" +
-                "Review changes, then Click Process to apply changes to Pinboard", 
+                "Review changes, then Click Apply to Pinboard to apply changes to Pinboard", 
                 "How To", MessageBoxButtons.OK,  MessageBoxIcon.Information
                 );
         }
